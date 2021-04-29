@@ -2257,6 +2257,15 @@
             }
         },
         {
+            "name": "tools_for_sellers",
+            "iOS": {
+                "key": "MeliplacesUi"
+            },
+            "Android": {
+                "key": "com.mercadolibre.android.meliplaces_ui"
+            }
+        },
+        {
             "name": "ui",
             "iOS": {
                 "key": "MLUI"
